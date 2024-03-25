@@ -1,3 +1,7 @@
+The Main Goal of this project is to showcase skills in Machine Learning. 
+This project 
+
+
 ## Exploratory Data Analysis ##
 - Performing exploratory data analysis to find preliminary insights such as data patterns.
 - Checking assumptions with the help of summary statistics and graphical representations of online course-related data sets such as course titles, course genres, and course enrollments. 
